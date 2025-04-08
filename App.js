@@ -139,14 +139,6 @@ function App() {
   const deleteSchedule = (index) => {
     setSchedules(schedules.filter((_, i) => i !== index));
   };
-  document.addEventListener("DOMContentLoaded", function () {
-    const app = document.getElementById('app');
-    if (app) {
-      app.innerHTML = '<h2 class="text-xl text-red-600">앱.js 연결 완료. 나 살아있다.</h2>';
-    } else {
-      console.error('앱 태그 못 찾음 ㅅㄱ');
-    }
-  });
   
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 space-y-4">
