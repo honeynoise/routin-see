@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/routin-see/static/css/main.905f6a04.css",
+    "main.js": "/routin-see/static/js/main.5417256c.js",
+    "index.html": "/routin-see/index.html",
+    "main.905f6a04.css.map": "/routin-see/static/css/main.905f6a04.css.map",
+    "main.5417256c.js.map": "/routin-see/static/js/main.5417256c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905f6a04.css",
+    "static/js/main.5417256c.js"
+  ]
+}
